@@ -46,7 +46,7 @@
 
 ## 💬 Contact
 
-📧 jeonge9244@gmail.com  
+📧 jeonges924@gmail.com  
 📍 Seoul, Korea  
 
 ---
