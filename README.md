@@ -24,7 +24,6 @@
 <p> <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/> </p>
 🏅 Salesforce Certified Administrator
 Credential ID: 3584108
-🔗 인증 확인하기
 
 ---
 
