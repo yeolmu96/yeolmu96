@@ -22,7 +22,7 @@
 <p> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> </p>
 ☁️ CRM / Certificates
 <p> <img src="https://img.shields.io/badge/Salesforce_Certified_Administrator-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/> </p>
-<p> <strong>Credential ID:</strong> 3584108 <em>(Expired)</em><br/>
+<p> <strong>Credential ID:</strong> 3584108 <em> (Obtained: August 2023)(Expired)</em><br/>
 🔗 <a href="https://sforce.co/verifycerts">Verify (if still accessible)</a> </p>
 
 ---
