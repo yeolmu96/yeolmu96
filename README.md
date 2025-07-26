@@ -7,15 +7,6 @@
 
 ---
 
-<h1 align="center">Hi there, I'm Yeolmu 🥬</h1>
-
-<p align="center">
-  🌱 Backend Developer | ☕ Java & Spring | 💡 Learner <br>
-  🛠️ I love building, debugging and sharing ideas!
-</p>
-
----
-
 ## 🧰 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
