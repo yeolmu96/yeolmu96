@@ -1,16 +1,5 @@
 ## Hi there 👋
 
-**yeolmu96/yeolmu96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ... backend(Java/Srping/MySql/MyBatis/JPA/...)
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ... jeonges924@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 <h1 align="center">Hi there, I'm Yeolmu 🥬</h1>
 
 <p align="center">
@@ -47,7 +36,7 @@
 
 ## 💬 Contact
 
-📧 jeonge9244@gmail.com  
+📧 jeonge924@gmail.com  
 📍 Seoul, Korea  
 
 ---
