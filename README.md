@@ -20,16 +20,10 @@
 <p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> </p>
 🧠 Others
 <p> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> </p>
-### ☁️ CRM / Certificates
-
-<p>
-  <img src="https://img.shields.io/badge/Salesforce_Certified_Administrator-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
-</p>
-
-<p>
-🪪 <strong>Credential ID:</strong> 3584108 <em>(Expired)</em><br/>
-🔗 <a href="https://sforce.co/verifycerts">Verify (if still accessible)</a>
-</p>
+☁️ CRM / Certificates
+<p> <img src="https://img.shields.io/badge/Salesforce_Certified_Administrator-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/> </p>
+<p> <strong>Credential ID:</strong> 3584108 <em>(Expired)</em><br/>
+🔗 <a href="https://sforce.co/verifycerts">Verify (if still accessible)</a> </p>
 
 ---
 
