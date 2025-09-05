@@ -50,3 +50,52 @@
 📍 Seoul, Korea  
 
 ---
+
+## 🖥 EVM (Eunsun Virtual Machine)
+
+![Static Badge](https://img.shields.io/badge/version-0.9--beta-blue)
+![Static Badge](https://img.shields.io/badge/status-개발중-important)
+![Static Badge](https://img.shields.io/badge/memory-Garbage_Collection-success)
+![Static Badge](https://img.shields.io/badge/style-UI_집착-critical)
+
+### ⚙️ 기본 정보
+- **이름**: EVM (Eunsun Virtual Machine)  
+- **버전**: 0.9-beta (정식 배포는 항상 *코앞*)  
+- **개발사**: 요망진열무 Inc.  
+
+---
+
+### 🧠 메모리 구조
+- **Heap** → ERD, WBS, 스키마 설계 (항상 과잉 할당)  
+- **Stack** → `for문` vs `map()` 논쟁, CSS 꼬임 (스택 오버플로우 빈번)  
+- **PermGen** → “UI는 예쁘게 보여야 해” (절대 GC 안 됨)  
+
+---
+
+### 🧹 GC (Garbage Collection) 정책
+- **Minor GC** → 포트 충돌, npm 오류 = 하루 지나면 망각  
+- **Major GC** → OAuth, Redis 지옥 = *“내가 그랬었냐?”* 모드  
+- **Stop-the-World** → 팀플 발표 직전 전체 프로세스 멈춤  
+
+---
+
+### ⚡ 실행 특징
+- **JIT 컴파일러** → 말빨은 늦게 뜨지만, 데모는 뽀대 있게 최적화  
+- **스레드 관리** → 백엔드+프론트+디자인 다 돌리려다 문맥 전환 지옥 발생  
+- **예외 처리** → 500 에러 시 → `"서비스 준비 중입니다 🙏"`  
+
+---
+
+### ✅ 장점
+- 있어 보이게 포장하는 능력 극강  
+- 필요 없는 기억 자동 삭제 (흑역사 GC)  
+- 집요함: 결국 어떻게든 구현함  
+
+### ❌ 단점
+- 배포 직전까지 기능 미완성  
+- 멀티태스킹 중 StackOverflow  
+- 로그보다 CSS 색깔에 집착  
+
+---
+
+> 📝 **EVM은 아직 정식 릴리즈 불가, 그러나 데모용으로는 충분히 있어 보임.** 🚀
