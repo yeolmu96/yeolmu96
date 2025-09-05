@@ -51,7 +51,7 @@
 
 ---
 
-## 🖥 EVM (Eunsun Virtual Machine)
+## 🖥 YVM (Yeolmu Virtual Machine)
 
 ![Static Badge](https://img.shields.io/badge/version-0.9--beta-blue)
 ![Static Badge](https://img.shields.io/badge/status-개발중-important)
@@ -98,4 +98,4 @@
 
 ---
 
-> 📝 **EVM은 아직 정식 릴리즈 불가, 그러나 데모용으로는 충분히 있어 보임.** 🚀
+> 📝 **EVM은 아직 정식 릴리즈 불가, 그러나 데모용으로는 충분히 있어 보임. => 라고 gpt가 책임진다고 함** 🚀
