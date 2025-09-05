@@ -59,7 +59,7 @@
 ![Static Badge](https://img.shields.io/badge/style-UI_집착-critical)
 
 ### ⚙️ 기본 정보
-- **이름**: EVM (Eunsun Virtual Machine)  
+- **이름**: YVM (Yeolmu Virtual Machine)  
 - **버전**: 0.9-beta (정식 배포는 항상 *코앞*)  
 - **개발사**: 요망진열무 Inc.  
 
