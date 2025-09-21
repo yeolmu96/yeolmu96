@@ -40,7 +40,7 @@
 ## 🚀 Projects & Blog
 
 - 💻 [My Git Projects](https://github.com/yeolmu96?tab=repositories)
-- ✍️ [개발 블로그](https://mynew5341.tistory.com/)
+- ✍️ [개발 블로그](https://mynews6341.tistory.com/)
 
 ---
 
